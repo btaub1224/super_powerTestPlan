@@ -14,4 +14,4 @@ Negative Tests:
 | Name | Steps | Results |
 | -----| ----- | ------- |
 |Invalid input| 1. Provide some form on invalid input (string, char, etc.) 2. Pass invalid input to function | Expect Type Error|
-| Input using none whole numbers (float)| 1. Provide float 2. Pass float to function | Expected result either works with float, type error, or converts float to int|
+| Input using non-whole numbers (float)| 1. Provide float 2. Pass float to function | Expected result either works with float, type error, or converts float to int|
